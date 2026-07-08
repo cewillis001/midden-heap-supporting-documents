@@ -21,4 +21,7 @@ Use one folder per post. Keep converted tables, source notes, and other supporti
 
 ## GitHub Pages Render
 
-- [Wide-table render view](https://cewillis001.github.io/midden-heap-supporting-documents/)
+- [Wide-table render home](https://cewillis001.github.io/midden-heap-supporting-documents/)
+- [Bar Exam Benchmark Followup Essay](https://cewillis001.github.io/midden-heap-supporting-documents/posts/bar-exam-benchmark-followup-essay/)
+- [LegalBench Citation Pass - Initial Reading Tracker](https://cewillis001.github.io/midden-heap-supporting-documents/posts/bar-exam-benchmark-followup-essay/tables/legalbench-citation-pass-reading-tracker.html)
+- [LegalBench Citation Pass - Reviewed Version 1](https://cewillis001.github.io/midden-heap-supporting-documents/posts/bar-exam-benchmark-followup-essay/tables/legalbench-citation-pass-reviewed-version-1.html)
