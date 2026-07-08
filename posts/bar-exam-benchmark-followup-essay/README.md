@@ -6,8 +6,8 @@ This folder holds Markdown supporting documents for the post.
 
 ## Planned Documents
 
-- Converted Markdown table from the source Excel spreadsheet.
+- [LegalBench Citation Pass - Initial Reading Tracker](tables/legalbench-citation-pass-reading-tracker.md)
 
 ## Suggested File Names
 
-- `tables/source-spreadsheet.md` - Markdown table converted from the Excel spreadsheet.
+- `tables/legalbench-citation-pass-reading-tracker.md` - Markdown table converted from the Excel spreadsheet.
