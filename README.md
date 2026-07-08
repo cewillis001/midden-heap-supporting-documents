@@ -18,3 +18,7 @@ Use one folder per post. Keep converted tables, source notes, and other supporti
 ## Current Posts
 
 - [Bar Exam Benchmark Followup Essay](posts/bar-exam-benchmark-followup-essay/)
+
+## GitHub Pages Render
+
+- [Wide-table render view](https://cewillis001.github.io/midden-heap-supporting-documents/)
